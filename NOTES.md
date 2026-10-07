@@ -1,6 +1,6 @@
 # PHARAOHS NINE (nine)
 
-Status: scaffolded 2026-10-07. Facts: [notes/scaffold.md](notes/scaffold.md).
+Status: runs (legacy engine, smoke-tested 2026-10-07). Draws; the glyph-font text on the board renders garbled (font slot work pending).
 
 ## Checklist
 - [ ] Window size in game.conf matches the largest PNG (notes/scaffold.md)
@@ -15,3 +15,5 @@ Status: scaffolded 2026-10-07. Facts: [notes/scaffold.md](notes/scaffold.md).
 
 ## Log
 <!-- dated notes: what broke, what fixed it -->
+
+- 2026-10-07 — runs on src/legacy with no stubs; Draws; the glyph-font text on the board renders garbled (font slot work pending).
